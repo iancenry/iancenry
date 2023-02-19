@@ -4,7 +4,7 @@
 
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
 
-<samp>I'm Ian Cenry and a KE-citizen, currently I'm a __Software Engineer and I am passionate about solving problems with code and creating different solutions.
+<samp>I'm Ian Cenry and a KE-citizen, currently I'm a Software Engineer and I am passionate about solving problems with code and creating different solutions.
 </samp>&nbsp;👨‍💻&nbsp;🚀
 </samp>&nbsp;👨‍💻&nbsp;
 
