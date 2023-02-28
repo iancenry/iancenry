@@ -9,7 +9,7 @@
 </samp>&nbsp;👨‍💻&nbsp;
 
 - 💻&nbsp;<samp>React Enthusiast.</samp>
-- ✈️&nbsp;<samp>I love exploring.</samp>
+- ✈️&nbsp;<samp>Astute Problem Solver.</samp>
 - 🌱&nbsp;<samp>I'm currently learning React and Python.</samp>
 - 📫&nbsp;<samp>You can reach me via my email - iancenry@gmail.com.</samp>
 
