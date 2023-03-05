@@ -1,4 +1,4 @@
-#  <img src="https://media.tenor.com/images/17a04f152e6be03486439b85e3bb045b/tenor.gif" width="30px"><samp>Ian Cenry</samp><img src="https://github.com/iancenry/iancenry/blob/main/assets/developer.gif" width="40px" height="30px">
+#  <img src="https://media.tenor.com/images/17a04f152e6be03486439b85e3bb045b/tenor.gif" width="30px">   <samp>Ian Cenry</samp>   <img src="https://github.com/iancenry/iancenry/blob/main/assets/developer.gif" width="40px" height="30px">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/iancenry/)](https://www.linkedin.com/in/iancenry/)
 
