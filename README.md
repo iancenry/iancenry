@@ -31,8 +31,3 @@
 - [Notes Web Application](https://github.com/iancenry/notes-app)  📓
 - [Tenzies Game](https://github.com/iancenry/tenzies-game)   🎰
 - [Simple Calculator](https://github.com/iancenry/simple-calculator)   🧮
-- 
-
-
-
-
