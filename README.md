@@ -26,7 +26,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-### Projects
+### 🎩  Projects
 
 - [Notes Web Application](https://github.com/iancenry/notes-app)  📓
 - [Tenzies Game](https://github.com/iancenry/tenzies-game)   🎰
