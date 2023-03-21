@@ -2,6 +2,8 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/iancenry/)](https://www.linkedin.com/in/iancenry/)
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px">
 
 <samp>I'm Ian Cenry and a KE-citizen, currently I'm a Software Engineer and I am passionate about solving problems with code and creating different solutions.
