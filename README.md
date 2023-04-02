@@ -20,7 +20,7 @@
 
 
 ###  ⚡ Technologies
-![React](https://img.shields.io/badge/-React-Blue?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![Javascript](https://img.shields.io/badge/Javascript-white?style=flat-square&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-white?style=flat-square&logo=Typescript)
 ![npm](https://img.shields.io/badge/-npm-green?style=flat-square&logo=npm)
