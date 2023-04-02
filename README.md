@@ -23,6 +23,7 @@
 ![React](https://img.shields.io/badge/-React-Blue?style=flat-square&logo=react)
 ![Javascript](https://img.shields.io/badge/Javascript-white?style=flat-square&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-white?style=flat-square&logo=Typescript)
+![npm](https://img.shields.io/badge/-npm-green?style=flat-square&logo=npm)
 ![MySQL](https://img.shields.io/badge/-MySQL-e48a00?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
