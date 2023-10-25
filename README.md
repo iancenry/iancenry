@@ -35,4 +35,4 @@
 - [Telegram AI Bot](https://github.com/iancenry/telegram-ai-bot)  📓
 - [Fullstack Goals](https://github.com/iancenry/mern-goals-app)   🧮
 - [NSE Stocks Scrapper API](https://github.com/iancenry/NSE-scrapper-api)   🧮
-- [Tenzies Game](https://github.com/iancenry/tenzies-game)   🎰
+- [Notes](https://github.com/iancenry/notes-react-ts)   🎰
