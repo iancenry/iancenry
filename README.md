@@ -22,12 +22,16 @@
 
 ###  ⚡ Technologies
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-![Javascript](https://img.shields.io/badge/Javascript-white?style=flat-square&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-white?style=flat-square&logo=Typescript)
+![Typescript](https://img.shields.io/badge/-Typescript-white?style=flat-square&logo=typescript)
 ![npm](https://img.shields.io/badge/-npm-green?style=flat-square&logo=npm)
 ![MySQL](https://img.shields.io/badge/-MySQL-e48a00?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Vue](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=vue.js)
+![Nuxt](https://img.shields.io/badge/-Nuxt-00C58E?style=flat-square&logo=nuxt.js)
+![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)
+
 
 
 
