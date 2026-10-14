@@ -32,7 +32,5 @@
 
 
 ### 📊 GitHub Stats
-![Ian Cenry's GitHub stats](https://github-readme-stats.vercel.app/api?username=iancenry&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true) ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iancenry&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub streak](https://streak-stats.demolab.com?user=iancenry&theme=tokyonight&hide_border=true)
+<img width="430" height="180" src="https://github-readme-stats.vercel.app/api?username=iancenry&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true" alt="Ian Cenry's GitHub stats"> <img width="430" height="180" src="https://streak-stats.demolab.com?user=iancenry&amp;theme=tokyonight&amp;hide_border=true&amp;card_width=430&amp;card_height=180" alt="Ian Cenry's contribution streak">
 
