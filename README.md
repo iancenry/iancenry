@@ -1,6 +1,4 @@
-#  <img src="https://media.tenor.com/images/17a04f152e6be03486439b85e3bb045b/tenor.gif" width="30px">   <samp>Ian Cenry</samp>   <img src="https://raw.githubusercontent.com/iancenry/iancenry/main/assets/developer.gif" width="40px" height="30px">
-
-![florian-olivo-4hbJ-eymZ1o-unsplash](https://github.com/iancenry/iancenry/assets/77986239/0690ffba-ef3a-417a-87b4-64741fe5e9ad)
+![Ian Cenry — software engineer. macOS apps, developer tools, Go services.](https://raw.githubusercontent.com/iancenry/iancenry/main/assets/banner-window.svg)
 
 
 ## <samp>Hello World!</samp> <img src="https://raw.githubusercontent.com/iancenry/iancenry/main/assets/earth.gif" width="22px" height="22px">
