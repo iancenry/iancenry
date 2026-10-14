@@ -1,8 +1,5 @@
 #  <img src="https://media.tenor.com/images/17a04f152e6be03486439b85e3bb045b/tenor.gif" width="30px">   <samp>Ian Cenry</samp>   <img src="https://raw.githubusercontent.com/iancenry/iancenry/main/assets/developer.gif" width="40px" height="30px">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/iancenry/)](https://www.linkedin.com/in/iancenry/)
-
-
 ![florian-olivo-4hbJ-eymZ1o-unsplash](https://github.com/iancenry/iancenry/assets/77986239/0690ffba-ef3a-417a-87b4-64741fe5e9ad)
 
 
